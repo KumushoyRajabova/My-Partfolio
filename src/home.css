@@ -1,0 +1,12 @@
+#home{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding-top: 20px;
+}
+
+#home h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 550;
+}
