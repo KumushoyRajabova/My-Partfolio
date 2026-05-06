@@ -14,6 +14,8 @@ function AboutMe(){
                 <p>🌐 HTML, CSS, JavaScript, React bilan ishlayman</p>
                 <p>👩‍🏫 Pythondan o'quvchilarga dars beraman</p>
                 <p>🚀 Maqsadim — kuchli Full Stack Developer bo'lish</p>
+                <p>📚 Kitoblar — mening fikrlashimni shakllantiradi, kod esa kelajagimni.</p>
+                <p>🎧 Musiqa — ruhim uchun, dasturlash — kelajagim uchun.</p>
                 <p>🌍 Kelajakda Turkiyada o'qishni rejalashtirganman</p>
                 <p>📧 rajabovakumush0@gmail.com</p>
                 <i class="fa-brands fa-facebook-f"></i>
